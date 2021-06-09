@@ -1,0 +1,48 @@
+﻿  header.cpp
+  packet_print.cpp
+packet_print.cpp(42): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(1868): note: 'inet_ntoa' 선언을 참조하십시오.
+packet_print.cpp(46): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(1868): note: 'inet_ntoa' 선언을 참조하십시오.
+packet_print.cpp(182): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+packet_print.cpp(183): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+packet_print.cpp(199): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+packet_print.cpp(200): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+packet_print.cpp(216): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+packet_print.cpp(217): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+packet_print.cpp(233): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+packet_print.cpp(234): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+packet_print.cpp(253): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: 'strdup' 선언을 참조하십시오.
+  raw_socket.cpp
+raw_socket.cpp(36): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+raw_socket.cpp(108): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2238): note: 'gethostbyname' 선언을 참조하십시오.
+raw_socket.cpp(117): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1868): note: 'inet_ntoa' 선언을 참조하십시오.
+raw_socket.cpp(123): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+raw_socket.cpp(61): warning C4101: 'pkSize' :참조되지 않은 지역 변수입니다.
+raw_socket.cpp(62): warning C4101: 'option' :참조되지 않은 지역 변수입니다.
+raw_socket.cpp(58): warning C4101: 'source_ip' :참조되지 않은 지역 변수입니다.
+raw_socket.cpp(61): warning C4101: 'optval' :참조되지 않은 지역 변수입니다.
+  set_packet.cpp
+set_packet.cpp(12): warning C4101: 'dest' :참조되지 않은 지역 변수입니다.
+set_packet.cpp(14): warning C4101: 'test1' :참조되지 않은 지역 변수입니다.
+set_packet.cpp(12): warning C4101: 'source' :참조되지 않은 지역 변수입니다.
+set_packet.cpp(13): warning C4101: 'test' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+c:\users\subin\onedrive\desktop\project\set_packet.cpp(107): warning C4715: 'Packet::getPort': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  All 149 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  project.vcxproj -> C:\Users\subin\OneDrive\Desktop\project\Release\project.exe
+  project.vcxproj -> C:\Users\subin\OneDrive\Desktop\project\Release\project.pdb (Full PDB)
